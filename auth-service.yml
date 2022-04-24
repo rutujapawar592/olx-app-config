@@ -10,7 +10,8 @@ spring:
       hibernate :
         dialect: org.hibernate.dialect.MySQL8Dialect
 
- data:
+   
+  data:
    mongodb:
     host: localhost
     port: 27017
